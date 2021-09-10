@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-smsReader",
+  "version": "0.1.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-smsReader",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneswarandavarapu/SMSReader.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneswarandavarapu/SMSReader/issues"
+  },
+  "homepage": "https://github.com/vigneswarandavarapu/SMSReader#readme"
+}
